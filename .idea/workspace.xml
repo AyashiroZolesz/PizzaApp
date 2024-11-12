@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0fd78ce-798d-4b1b-9a7b-8aa82813df67" name="Changes" comment="Configured NewOrder servlet and updated index.html">
+    <list default="true" id="b0fd78ce-798d-4b1b-9a7b-8aa82813df67" name="Changes" comment="Added application-scoped toppings list in ManageToppings servlet and small fix in NewOrder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pizzaapp/controller/ManageToppings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pizzaapp/controller/ManageToppings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pizzaapp/controller/NewOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pizzaapp/controller/NewOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/PizzaCreator.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/PizzaCreator.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/Summary.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/Summary.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -105,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731413676009</updated>
-      <workItem from="1731413676977" duration="4141000" />
+      <workItem from="1731413676977" duration="6722000" />
     </task>
     <task id="LOCAL-00001" summary="Created Repositories">
       <option name="closed" value="true" />
@@ -131,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731416178694</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added application-scoped toppings list in ManageToppings servlet and small fix in NewOrder">
+      <option name="closed" value="true" />
+      <created>1731418689079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731418689079</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +160,11 @@
     <MESSAGE value="Created Repositories" />
     <MESSAGE value="Created Repositories and finalized classes (Pizza, Topping)" />
     <MESSAGE value="Configured NewOrder servlet and updated index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configured NewOrder servlet and updated index.html" />
+    <MESSAGE value="Added application-scoped toppings list in ManageToppings servlet and small fix in NewOrder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added application-scoped toppings list in ManageToppings servlet and small fix in NewOrder" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
